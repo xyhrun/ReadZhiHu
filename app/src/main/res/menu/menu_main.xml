@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.xyh.readzhihu.MainActivity">
+    <item
+        android:id="@+id/calendar"
+        android:orderInCategory="100"
+        android:icon="@mipmap/time"
+        app:showAsAction="always"
+        android:title="calendar" />
+</menu>
